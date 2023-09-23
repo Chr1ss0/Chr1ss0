@@ -1,5 +1,5 @@
 <img src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif' alt=""></img>
-<div><h1 align="center">01001000 01101001,</h1><img width="40px" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt=""></div>
+<div style="display: flex; align-items: center;"><h1 align="center">01001000 01101001,</h1><img width="40px" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt=""></div>
 <h4 align="center" >My name is Chris, and I was always interested in the magic behind the screen but didn't quite make the jump. Now a few things have changed in my life, and I can walk in the direction I want to go, and I'm pretty damn glad I did. For now, I'm in a bootcamp program to learn the basics about FullStack development. From there, I always appreciate a new challenge to solve or a new technique to learn.</h4>
 
 <h3 align="center">Things I currently learn && work with.</h3>
