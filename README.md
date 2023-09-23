@@ -1,8 +1,8 @@
 <img src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif' alt=""></img>
 <div align="center">
   <div style="display: flex; align-items: center;">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="">
     <h1 style="margin-left: 20px;">01001000 01101001</h1>
+    <img width="40px" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="">
   </div>
 </div>
 
