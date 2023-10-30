@@ -18,10 +18,8 @@
 
 ## About me:
 
-- 🛠️ I’m currently working on an [Ordinary-Box](https://github.com/Chr1ss0/ordinary_backend)
-
-- 🔍 Learning right now more about: **Backend Development - Node.js/MongoDB**
-
+- 🛠️ I’m currently working on an [Ordinary-Box](https://github.com/Chr1ss0)
+- 🔍 Learning right now more about: **Docker**
 - 📟 Hobbies = **[ 'IoT' , 'FPV Drones' , 'Electronics'];**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chr1ss0&theme=dracula&layout=donut-vertical" alt="chr1ss0 stats" />
